@@ -1,5 +1,5 @@
 {
-    "name": "pbmedia/laravel-webdav",
+    "name": "isfirs/laravel-webdav",
     "type": "library",
     "description": "Laravel 5 WebDAV Filesystem",
     "keywords": [
