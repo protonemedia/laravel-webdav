@@ -14,11 +14,16 @@
             "email": "info@pascalbaljetmedia.com",
             "homepage": "https://www.pascalbaljetmedia.com",
             "role": "Developer"
-        }
+        },
+        {
+                "name": "Isfirs",
+                "email": "isfirs.pb@gmail.com",
+                "role": "Contributor"
+            }
     ],
     "require": {
         "php" : "~5.6|~7.0",
-        "illuminate/filesystem": "5.0.*|5.1.*|5.2.*",
+        "illuminate/filesystem": "5.0.*|5.1.*|5.2.*|5.3.*",
         "league/flysystem-webdav": "1.0.2"
     },
     "autoload": {
