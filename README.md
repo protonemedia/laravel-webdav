@@ -35,9 +35,9 @@ Create a webdav filesystem disk:
 	...
 	'webdav' => [
 	    'driver'   => 'webdav',
-	    'baseUri'  => 'https://mywebdavstorage.com',
-	    'userName' => 'pascalbaljetmedia',
-	    'password' => 'supersecretpassword,
+	    'baseUri'  => env('WEBDAV_HOST', 'https://mywebdavstorage.com',
+	    'userName' => env('WEBDAV_USERNAME', 'jdoe'),
+	    'password' => env('WEBDAV_PASSWORD', ''),
 	],
 	...
 ];
