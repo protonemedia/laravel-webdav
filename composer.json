@@ -17,13 +17,13 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.3 || ^8.0",
         "illuminate/filesystem": "^6.0 || ^7.0 || ^8.0",
         "league/flysystem-webdav": "^1.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0 || ^5.0 || ^6.0",
-        "phpunit/phpunit": "~7.0|~8.0"
+        "phpunit/phpunit": "~7.0 || ~8.0 || ~9.0"
     },
     "autoload": {
         "psr-4": {

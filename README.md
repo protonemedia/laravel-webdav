@@ -5,7 +5,7 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This package provides a WebDAV driver for Laravel's Filesystem. Laravel 5.0 and higher supported.
+This package provides a WebDAV driver for Laravel's Filesystem. Laravel 6.0 and higher supported.
 
 ## Install
 
