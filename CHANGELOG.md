@@ -4,6 +4,11 @@ All Notable changes to `laravel-webdav` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## 1.11.0
+- Support for PHP 8.1
+- Dropped support for PHP 7.3
+- Dropped support for Laravel 6 and 7
+
 ## 1.10.0
 - Support for PHP 8.0
 - Dropped support for PHP 7.2
