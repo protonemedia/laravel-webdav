@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
-        "illuminate/filesystem": "^8.67",
+        "illuminate/filesystem": "^8.67|^10.0",
         "league/flysystem-webdav": "^1.0"
     },
     "require-dev": {
