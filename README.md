@@ -16,7 +16,7 @@ We proudly support the community by developing Laravel packages and giving them 
 Via Composer
 
 ``` bash
-$ composer require pbmedia/laravel-webdav
+composer require pbmedia/laravel-webdav
 ```
 
 ## Usage
