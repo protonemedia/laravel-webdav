@@ -1,3 +1,5 @@
+> :warning: This package is unmaintained and doesn't work with modern Laravel apps. Consider using a [Custom Filesystem](https://laravel.com/docs/10.x/filesystem#custom-filesystems) with the new [WebDAV adapter](https://flysystem.thephpleague.com/docs/adapter/webdav/).
+
 # laravel-webdav
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
