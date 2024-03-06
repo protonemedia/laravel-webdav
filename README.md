@@ -52,6 +52,16 @@ Create a webdav filesystem disk:
 	...
 ];
 ```
+### Authentication
+The authentication method is determined by ‍`authType` in the configuration:
+
+Example with basic authentication:
+``` php
+'webdav' => [
+    ...
+    'authType' => 1,
+],
+```
 
 ## Change log
 
